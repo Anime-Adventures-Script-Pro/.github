@@ -1,4 +1,4 @@
-# Anime Adventures Script Pro — Roblox Automation Tool
+# Anime Adventures Script — Roblox Automation Tool
 
 ✨ Elevate your Anime Adventures experience with this advanced script designed to automate repetitive tasks and optimize your gameplay. Whether you're farming resources, leveling up, or exploring, this tool provides smooth and safe automation for Roblox fans.
 
